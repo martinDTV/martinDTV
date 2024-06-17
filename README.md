@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 #### "Software should be like a bicycle: simple, practical, and easy to use." - Steve Jobs
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vazquez1240&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martinDTV&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
 <div align="center"> 
   <code><img width="42" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" alt="Ubuntu" title="Ubuntu"/></code>
   <code><img width="42" src="https://user-images.githubusercontent.com/25181517/186884152-ae609cca-8cf1-4175-8d60-1ce1fa078ca2.png" alt="macOS" title="macOS"/></code>
