@@ -12,6 +12,9 @@ You can click the Preview link to take a look at your changes.
 - Software engineering student.
 - Developing innovative solutions with Python and JavaScript.
 
+- 
+You can also find me on my other account as [@vazquez1240](https://github.com/vazquez1240).
+
 #### "Software should be like a bicycle: simple, practical, and easy to use." - Steve Jobs
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martinDTV&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
