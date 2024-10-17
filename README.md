@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 
 - I'm currently working as a web developer at Gobierno Digital in the Secretary of Innovation of Monterrey, NL.
 - Software engineering student.
-- Developing innovative solutions with Python and Typescript.
+- Developing innovative solutions with Python and TypeScript.
 
 - 
 You can also find me on my other account as [@vazquez1240](https://github.com/vazquez1240).
