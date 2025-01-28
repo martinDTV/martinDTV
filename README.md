@@ -6,6 +6,8 @@ You can click the Preview link to take a look at your changes.
 --->
 ### Hello World 👋
 
+<img src="https://komarev.com/ghpvc/?username=martinDTV&label=Profile%20views&color=0e75b6&style=flat" alt="martinDTV" /> </p>
+
 #### I'm a software developer passionate about web development. 💻
 
 - I'm currently working as a web developer at Gobierno Digital in the Secretary of Innovation of Monterrey, NL.
