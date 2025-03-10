@@ -7,6 +7,8 @@ You can click the Preview link to take a look at your changes.
 ### Hello World 👋
 
 <img src="https://komarev.com/ghpvc/?username=martinDTV&label=Profile%20views&color=0e75b6&style=flat" alt="martinDTV" /> </p>
+<img align="right" width="320px"  style="transparent: .90" alt="poliwhirl" src="https://private-user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDE1OTQzMjUsIm5iZiI6MTc0MTU5NDAyNSwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjM4OTEtN2JiMWU3MDQtNjAyNi00OGY5LTg0MzUtMmY0ZDQwMTAxMzQ4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMTAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzEwVDA4MDcwNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQ0ODE5YzVmYjZkMWMwYmE5ZGNjZmQzMjhkMGIyZDFhMDFhZDY0NTg5M2UyMWEyMDQxYzBiMGZkMzgyNTNiM2QmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.DXtPfKf0oUJUIXyM15iKkLBRo7sSx8fzJzG-wiSQ60I" />
+
 
 #### I'm a software developer passionate about web development. 💻
 
