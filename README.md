@@ -20,7 +20,7 @@ appears on your GitHub profile. Click Preview to see your changes.
 
 ### 👨‍💻 About
 
-Full-Stack Senior developer from Monterrey, building web apps, REST APIs, and cloud infrastructure for the public and private sectors. I work at **Axtel** on enterprise collaboration solutions, and I run my own studio, **NexoSoftDev**.
+Senior Full-Stack developer from Monterrey, building web apps, REST APIs, and cloud infrastructure for the public and private sectors. I work at **Axtel** on enterprise collaboration solutions, and I run my own studio, **NexoSoftDev**.
 
 - 🏢 At Axtel: Zoom Contact Center, Zoom Virtual Agent (AI assistants), and FastAPI integrations with HubSpot CRM
 - 💻 Backend in Python (FastAPI, Django) and .NET 6 · Frontend in Vue 3, Nuxt, and React
